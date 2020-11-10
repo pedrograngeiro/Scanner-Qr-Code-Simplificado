@@ -1,12 +1,13 @@
 # Scanner Qr Code por webcam.
 
-1 - O funcionamente depende da pré-instalação das seguintes bibliotecas e do pip3 (gerenciador de pacotes)
+1 - O funcionamento depende da pré-instalação das seguintes bibliotecas e do pip3 (gerenciador de pacotes)
   opencv-python
   cv2
   numpy
   pyzbar
    
 2 - Baixe as bibliotecas usando os seguintes comandos
+
 pip3 opencv-python
 
 pip3 install cv2
