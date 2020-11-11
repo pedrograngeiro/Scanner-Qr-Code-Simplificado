@@ -10,7 +10,7 @@ while True:
 
     decodedObjects = pyzbar.decode(frame)
     for obj in decodedObjects:
-        if condicao = 0:
+        if condicao == 0:
             print("Data", obj.data)
             condicao = condicao + 1
         
